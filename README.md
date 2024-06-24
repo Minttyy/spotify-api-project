@@ -1,8 +1,8 @@
-# React + Vite
+# Spotify Album Finder - Codedex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple app that finds album based on the artist you typed in
+This is done by following a tutorial from Codedex (https://www.codedex.io/projects/build-an-album-finder-with-spotify-api)
 
-Currently, two official plugins are available:
+Below is a quick demo:
+![demo](https://github.com/Minttyy/spotify-api-project/blob/main/demo.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
